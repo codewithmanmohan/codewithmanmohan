@@ -40,7 +40,6 @@ CI/CD Pipelines • Environment Configuration • Postman API Testing
 
 ## 🚀 Production Projects
 
-### 🚗 [Vehicle Financing Platform](https://github.com/codewithmanmohan/vehicle-financing-backend)
 ### 🚗 [DriveEase Finance Platform](https://github.com/codewithmanmohan/vehicle-financing-backend)
 **Full-stack vehicle financing platform with advanced filtering and financial calculators**
 DriveEase Finance is a comprehensive, production-ready full-stack web application designed for vehicle financing and leasing in the Indian market. It offers a premium, modern user interface, robust JWT authentication, multi-step application processes, full-featured EMI calculations, and a complete admin dashboard for managing vehicles, customers, and applications.Implemented modular backend architecture with clear separation of concerns.
